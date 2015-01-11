@@ -1,0 +1,57 @@
+aside.Wr__content__promo.gte-desktop {
+    display: none;
+}
+
+div.Wr__footer-section2 {
+    display: none;
+}
+
+div.Wr__footer__section1 {
+    display: none;
+}
+
+div.Wr__header-bar__row {
+    display: none;
+}
+
+div.Wr__header__nav {
+    display: none;
+}
+
+div.above_body div {
+    display: none;
+}
+
+div.above_threadlist_controls.toolsmenu {
+    background-color: #ffffff;
+    color: #6b256b;
+    width: 98%;
+}
+
+div.above_threadlist_controls.toolsmenu div {
+    width: 14%;
+}
+
+.Wr__content--fluid .forumhead {
+	height: 25px;
+}
+
+div.pagetitle {
+    display: none;
+}
+
+h5.Mini-feed__heading {
+    display: none;
+}
+
+li.announcerow {
+    display: none;
+}
+
+.forumbits ol {
+	display: none;
+}
+
+.threadinfo-table tr:nth-child(-n+12) {
+	display: none;
+}
