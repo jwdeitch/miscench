@@ -16,7 +16,7 @@
 
     "content_scripts" : [{
         "matches" : [ "http://forum.bodybuilding.com/*"],
-        "js" : ["js.js", "js2.js"],
+        "js" : ["jq.min", "resize.js", "subform.js"],
         "css" : ["css.css"],
         "run_at": "document_end"  
         }]
